@@ -1,18 +1,33 @@
-# terra
+# terra  
 
-- [x] void bag, void vault
-- [ ] sticky bomb: hellevator
-  • BV (1800 × 7/12) / 7 = 150
-- [ ] journey mode: research, duplication
-- [ ] vital crystal: shimmer
-- [x] desert fossil: for amber
-- [ ] fishery: spawn point(teleport), map renaming
-  • avoid time
+- [ ] check: coins as item  
+- [ ] sticky bomb: hellevator  
+  • BV (1800 × 7/12) / 7 = 150  
+- [ ] vital crystal: shimmer  
+- [x] void bag, void vault  
+- [x] desert fossil: for amber  
+- [ ] fishery: spawn point(teleport), map renaming  
+  • avoid time: ?todo  
+- [x] journey mode: research, duplication  
 
+```yml
 explore flow
-• house, herbs???
+• controller, mouse & keyboard
+• move, build/retrieval, interact(use, throw/discard, ···)
+• spawn point: flag, wood/platform, ground flat
+• **1st 7:40**: house·3/town, biomes margin, for fast reach
+• pit (lava), **crafting station**, **arena**(away from town)
+• merchant: sickle, ···
+• pots, chests, weapon
+  • bomb, umbrella, gun, flail
+• herbs farms
+~~• minecart track (iron/lead bar + woods)~~
+~~• check: hoik, target dummy
+  • up/down, hit to up~~
 • recovery: health, mana
 • defense
+• events
+• boss
 
 item categories
 • weapons
@@ -23,7 +38,7 @@ item categories
 • accessories
 • equipment
 • consumables
-• tools 
+• tools
 • materials: gem, ore, bar, souls
 • misc
 
@@ -51,3 +66,4 @@ biomes
   • evil
 » dungeon
 » underw
+```
