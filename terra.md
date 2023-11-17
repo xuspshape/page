@@ -3,12 +3,12 @@
 TODO  
 - [ ] item categories(chests)  
 - [ ] tombstone × 7, a sun plant
-- [ ] peace candle: trap(pressure plates)  
+- [ ] enemy spawn rate: town, peace candle, sun plants   
 - [ ] weapon: hardmode  
 - [x] movement speed: mounts, wings  
-- [ ] soul farming(harvesting)  
-- [ ] arena  
-- [ ] mimics  
+- [x] soul farming(harvesting)  
+- [x] arena  
+- [x] mimics  
 - [x] void bag, void vault  
 - [x] desert fossil: extractinator, sturdy fossil, scarab bomb  
 - [ ] fishery: spawn point(teleport), map renaming  
@@ -45,9 +45,9 @@ explore elements:
   ∘ ore/bar: iron/lead, gold/platinum
 • merchant: bug net, iron anvil, mining helmet, wooden arrow, ···
 • tools: pickaxes/drill
-• class setup: weapon & armor, switching on demand      #todo
-  ∘ melee: umbrella, flail, sword; a, b, c
-  ∘ ranged: gun, bow(queen bee), grenade; a, b, c
+• class setup: weapons + armors+accessories, switching on demand #todo
+  ∘ melee: umbrella, flail, sword; ···
+  ∘ ranged: gun, bow(queen bee), grenade; ···
   ∘ magic: 
   ∘ summoner: 
 • farms:                                     #todo
