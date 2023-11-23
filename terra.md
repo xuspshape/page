@@ -1,23 +1,29 @@
 # terra  
+#cFR Ywq ptZJ
 
 TODO  
+- [ ] keyboard & mouse  
+  - W ~ E, A ~ S, S ~ D, D ~ F  
+  - E ~ R, R ~ Q  
+  - H ~ A, J ~ Z, B ~ B  
+- [ ] build: platform(Ctrl), town, crafting, arena/fishery, biomes town  
+- [ ] information accessories
+- [ ] storage: quick stack  
 - [ ] item categories(chests)  
-- [ ] tombstone × 7, a sun plant
-- [ ] enemy spawn rate: town, peace candle, sun plants   
-- [ ] weapon: hardmode  
-- [x] movement speed: mounts, wings  
-- [x] soul farming(harvesting)  
-- [x] arena  
-- [x] mimics  
+- [ ] respawn length: item, enemy  
+- [ ] movement speed: mounts, wings, sprinting accessories, dash accessories  
+- [ ] spawn rate: town, sun plants, peace/water candle, buff potions  
+- [ ] recovery rate  
+- [ ] souls farming(harvesting): underworld  
+- [ ] fishery: spawn point(teleport), world renaming  
+- [x] sand block: swap  
 - [x] void bag, void vault  
+- [x] mimics  
 - [x] desert fossil: extractinator, sturdy fossil, scarab bomb  
-- [ ] fishery: spawn point(teleport), map renaming  
-  - avoid time #todo  
 - journey mode  
   - [ ] ~~scarab bomb: angle~~  
   - [x] research, duplication  
 - [x] tmod: aimbot config, distance  
-- [ ] keyboard & mouse  
 
 ```yml
 explore elements:
@@ -33,7 +39,7 @@ explore elements:
     • crafting station: target dummy
     • arena: out of spawn point screen
       ∘ ~: lava pit
-      ∘ ~: peace candle, sun plants         #todo
+      ∘ ~: peace candle, town
   ∘ t/p: town/pylon
                             t/p
     ocean·desert t/p-snow  forest desert-t/p jungle-t/p forest·ocean
