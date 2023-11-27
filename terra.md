@@ -3,11 +3,12 @@
 
 TODO  
 - [ ] keyboard & mouse  
-  - W ~ E, A ~ S, S ~ D, D ~ F  
-  - E ~ R, R ~ Q  
-  - H ~ A, J ~ Z, B ~ B  
+  - E ~ F, H·J ~ C·V  
+  - ~~W ~ E, A ~ S, S ~ D, D ~ F~~  
+  - ~~E ~ R, R ~ Q~~  
+  - ~~H ~ A, J ~ Z, B ~ B~~  
 - [ ] build: platform(Ctrl), town, crafting, arena/fishery, biomes town  
-- [ ] information accessories
+- [ ] information accessories  
 - [ ] storage: quick stack  
 - [ ] item categories(chests)  
 - [ ] respawn length: item, enemy  
@@ -56,7 +57,7 @@ explore elements:
   ∘ ranged: gun, bow(queen bee), grenade; ···
   ∘ magic: 
   ∘ summoner: 
-• farms:                                     #todo
+• farms:                    #todo
   ∘ tree: flat, 3 tile
   ∘ herbs: tile(7 × 15 tiles), biomes(blocks,grass)
   ∘ fishing bait: buggy statue, shimmer
@@ -93,7 +94,7 @@ class setup:
 • magic
 • summoner
 
-weapons
+weapons: damage, speed, scope
 • melee: swords, yoyos, spears, boomerangs, flails, other
 • ranged: bows&repeaters, guns, launchers, consumables grenades, others
 • magic: wands, magic guns, spell books, others
