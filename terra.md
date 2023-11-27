@@ -1,5 +1,5 @@
-# terra  
-#cFR Ywq ptZJ
+# terra
+flow, build: dida365
 
 TODO  
 - [ ] keyboard & mouse  
@@ -27,6 +27,9 @@ TODO
 - [x] tmod: aimbot config, distance  
 
 ```yml
+flow:
+
+
 explore elements:
 • ~: controller, mouse & keyboard
   ∘ ~: move, build/retrieval, interact(use, throw/discard, ···)
